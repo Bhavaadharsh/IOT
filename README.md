@@ -1,27 +1,3 @@
-# DESCRIPTION
-One of the primary functions of a crowd detector system is to ensure accurate and
-efficient monitoring. It achieves this through the use of sophisticated sensors and
-algorithms that are capable of distinguishing between individual people. These sensors
-can include infrared motion detectors, cameras with object recognition capabilities, or
-even advanced lidar systems. The ability to differentiate between individuals allows the
-system to maintain an accurate count, even in scenarios where multiple people may be
-entering or exiting simultaneously. We see many public transports getting overcrowded.
-But one specific public transport is the bus. Often, we see buses traveling fully packed
-with people, very congested for them to stand, buy tickets and travel peacefully. To
-prevent this situation, we are bringing an enhanced crowd detector that monitors the
-number of passengers entering and exiting the bus. In a normal system, the crowd
-detector just counts the number of people entering into a specific area. But in our system,
-it not only counts the number of people entering into the area, it also subtracts when
-people exit from that area. By doing this, we will have a perfect count of the number of
-people entering and exiting that particular area. Additionally, we are going to keep a
-threshold value. An alarm sound will be heard, once the people count reaches the
-threshold, acknowledging the bus driver so that he can manually open the door to let
-people in. As we mentioned before, our system is going to target private buses in the
-specified area. It has a count of the number of people entering and exiting the bus.
-
-
-
-
 # IOT
 const int ultrasonicTrigPin = 2;
 const int ultrasonicEchoPin = 3;
