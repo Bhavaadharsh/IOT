@@ -1,4 +1,4 @@
-# DWSCRIPTION
+# DESCRIPTION
 One of the primary functions of a crowd detector system is to ensure accurate and
 efficient monitoring. It achieves this through the use of sophisticated sensors and
 algorithms that are capable of distinguishing between individual people. These sensors
