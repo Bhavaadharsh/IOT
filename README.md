@@ -1,4 +1,4 @@
-# IOT
+# CROWD DETECTION
 const int ultrasonicTrigPin = 2;
 const int ultrasonicEchoPin = 3;
 const int irSensorPin = 8;
